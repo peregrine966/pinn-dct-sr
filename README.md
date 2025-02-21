@@ -1,5 +1,5 @@
 # pinn-dct-sr
-A PINN-Based DCT Function for Supervised Image Super-Resolution Networks
+## A PINN-Based DCT Function for Supervised Image Super-Resolution Networks.
 First of all, I would like to thank Lim, Bee, Son, Sanghyun, Kim, Heewon, Nah, Seungjun, and Lee, Kyoung Mu for their contributions, which have facilitated my research. If you find their work useful, please cite their paper.
 
 ```bibtex
